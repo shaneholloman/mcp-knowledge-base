@@ -1,0 +1,17 @@
+{
+  "name": "mcp-knowledge-base",
+  "version": "0.0.1",
+  "description": "MCP server for knowledge base functionality - Coming Soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp",
+    "claude",
+    "knowledge-base",
+    "ai"
+  ],
+  "author": "Shane Holloman",
+  "license": "MIT"
+}
